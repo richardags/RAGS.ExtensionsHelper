@@ -1,4 +1,4 @@
-﻿namespace DateTimeOffsetExtension.classes
+﻿namespace RAGS.DateTimeOffsetExtension.classes
 {
     internal class Constants
     {

@@ -1,8 +1,8 @@
-﻿using DateTimeOffsetExtension.classes;
+﻿using RAGS.DateTimeOffsetExtension.classes;
 using System;
 using TelegramHelper;
 
-namespace DateTimeOffsetExtension
+namespace RAGS.DateTimeOffsetExtension
 {
     public static class DateTimeOffsetExtension
     {
